@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "car-deals": {
+      "command": "node",
+      "args": ["/root/mcp-servers/car_deals_search_mcp/src/server.js"]
+    }
+  }
+}
